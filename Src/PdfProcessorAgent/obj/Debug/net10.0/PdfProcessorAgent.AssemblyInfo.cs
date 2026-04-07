@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfProcessorAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a408444b5e1598e30f34cf61d0840fdab67848")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+550db53505f53edbd19a9e1b216cfd789c458dc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfProcessorAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfProcessorAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,15 +8,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
-// Configure Semantic Kernel with Azure OpenAI
-var azureOpenAiKey = builder.Configuration["AzureOpenAi:ApiKey"];
-var azureOpenAiEndpoint = builder.Configuration["AzureOpenAi:Endpoint"];
-var deploymentName = builder.Configuration["AzureOpenAi:DeploymentName"];
+// Configure Semantic Kernel with OpenAI
+var openAiApiKey = builder.Configuration["OpenAi:ApiKey"];
+var openAiModelId = builder.Configuration["OpenAi:ModelId"];
 
-if (!string.IsNullOrEmpty(azureOpenAiKey) && !string.IsNullOrEmpty(azureOpenAiEndpoint))
+if (!string.IsNullOrEmpty(openAiApiKey) && !string.IsNullOrEmpty(openAiModelId))
 {
     var kernelBuilder = Kernel.CreateBuilder()
-        .AddAzureOpenAIChatCompletion(deploymentName, azureOpenAiEndpoint, azureOpenAiKey);
+        .AddOpenAIChatCompletion(openAiModelId, openAiApiKey);
 
     var kernel = kernelBuilder.Build();
 
