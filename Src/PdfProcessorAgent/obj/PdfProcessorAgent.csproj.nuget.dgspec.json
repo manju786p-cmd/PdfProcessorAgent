@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj": {}
+    "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj": {}
   },
   "projects": {
-    "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj": {
+    "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
+        "projectUniqueName": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
         "projectName": "PdfProcessorAgent",
-        "projectPath": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
+        "projectPath": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
         "packagesPath": "C:\\Users\\Surendra\\.nuget\\packages\\",
-        "outputPath": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\obj\\",
+        "outputPath": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "khWob6JnMIw=",
+  "dgSpecHash": "VqIioxkNHUw=",
   "success": true,
-  "projectFilePath": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
+  "projectFilePath": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Surendra\\.nuget\\packages\\azure.ai.openai\\2.1.0-beta.2\\azure.ai.openai.2.1.0-beta.2.nupkg.sha512",
     "C:\\Users\\Surendra\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
@@ -33,9 +33,9 @@
       "code": "NU1904",
       "level": "Warning",
       "message": "Package 'Microsoft.SemanticKernel.Core' 1.30.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-2ww3-72rp-wpp4",
-      "projectPath": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
+      "projectPath": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\PdfProcessor\\PdfProcessorAgent\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
+      "filePath": "C:\\PdfProcessor\\AI\\PdfProcessorAgent\\Src\\PdfProcessorAgent\\PdfProcessorAgent.csproj",
       "libraryId": "Microsoft.SemanticKernel.Core",
       "targetGraphs": [
         "net10.0"
