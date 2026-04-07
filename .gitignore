@@ -1,0 +1,9 @@
+.vs
+dist
+bin/
+obj/
+Debug/*
+TestResults/
+coverage/*
+/src/Dell.PremierConnect.ASN.Test/coverage.opencover.xml
+*.csproj.user
