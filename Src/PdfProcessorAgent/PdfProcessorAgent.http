@@ -1,0 +1,6 @@
+@PdfProcessorAgent_HostAddress = http://localhost:5239
+
+GET {{PdfProcessorAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
